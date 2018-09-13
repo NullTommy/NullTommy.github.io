@@ -45,7 +45,9 @@ layout: page-about
 
 ---
 
-### **微信公号： NullTommy**
+### **微信公号**
 
-找到我，来一次亲密接触吧~~
+![](https://raw.githubusercontent.com/SmallNum/MyPic/master/img/20180913183730.png)
+
+来一次亲密接触吧~~
 
